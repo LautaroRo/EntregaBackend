@@ -1,0 +1,56 @@
+[
+	{
+		"id": 1,
+		"titulo": "Manzana",
+		"descripcion": "Fruta deliciosa",
+		"precio": 300,
+		"estado": true,
+		"stock": 1000,
+		"categoria": "frutas"
+	},
+	{
+		"id": 2,
+		"titulo": "Pure",
+		"descripcion": "Comida",
+		"precio": 200,
+		"estado": true,
+		"stock": 3000,
+		"categoria": "Comida en conjunto"
+	},
+	{
+		"id": 3,
+		"titulo": "Naranja",
+		"descripcion": "Cítrico jugoso",
+		"precio": 150,
+		"estado": true,
+		"stock": 1200,
+		"categoria": "frutas"
+	},
+	{
+		"id": 4,
+		"titulo": "Pera",
+		"descripcion": "Fruta jugosa",
+		"precio": 250,
+		"estado": true,
+		"stock": 600,
+		"categoria": "frutas"
+	},
+	{
+		"id": 5,
+		"titulo": "Uva",
+		"descripcion": "Fruta dulce",
+		"precio": 400,
+		"estado": true,
+		"stock": 900,
+		"categoria": "frutas"
+	},
+	{
+		"id": 6,
+		"titulo": "Sandía",
+		"descripcion": "Fruta refrescante",
+		"precio": 500,
+		"estado": true,
+		"stock": 300,
+		"categoria": "frutas"
+	}
+]
